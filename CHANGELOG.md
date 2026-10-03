@@ -1,5 +1,11 @@
 # Changelog
 
+## [26.10.0-beta.3](///compare/v26.10.0-beta.2...v26.10.0-beta.3) (2026-10-03)
+
+### Bug Fixes
+
+* **member:** 徽章在手機版跑版 788b099
+
 ## [26.10.0-beta.2](///compare/v26.10.0-beta.1...v26.10.0-beta.2) (2026-10-03)
 
 ### Features
