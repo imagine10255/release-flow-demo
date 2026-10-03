@@ -1,5 +1,11 @@
 # Changelog
 
+## [26.10.0-beta.2](///compare/v26.10.0-beta.1...v26.10.0-beta.2) (2026-10-03)
+
+### Features
+
+* **member:** 會員等級徽章 13022eb
+
 ## [26.10.0-beta.1](///compare/v26.10.0-beta.0...v26.10.0-beta.1) (2026-10-03)
 
 ### Bug Fixes
