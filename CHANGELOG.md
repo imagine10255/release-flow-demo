@@ -1,5 +1,15 @@
 # Changelog
 
+## [26.11.0-beta.1](///compare/v26.10.1...v26.11.0-beta.1) (2026-10-03)
+
+### Features
+
+* **search:** 搜尋結果分頁 5c9348a
+
+### Bug Fixes
+
+* 併入 hotfix v26.10.1 401bdb4
+
 ## [26.11.0-beta.0](///compare/v26.9.0...v26.11.0-beta.0) (2026-10-03)
 
 ### Features
