@@ -1,5 +1,14 @@
 # Changelog
 
+## [26.12.0-beta.0](///compare/v26.10.1...v26.12.0-beta.0) (2026-10-03)
+
+### Features
+
+* **coupon:** 優惠券兌換頁 93c7370
+* **coupon:** 兌換紀錄查詢 6551acb
+* **search:** 搜尋結果分頁 5c9348a
+* **search:** 進階篩選 40fcb1e
+
 # [26.10.1](///compare/v26.10.0...v26.10.1) (2026-10-03)
 
 ### Bug Fixes
