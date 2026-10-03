@@ -1,5 +1,12 @@
 # Changelog
 
+## [26.13.0-beta.1](///compare/v26.12.1...v26.13.0-beta.1) (2026-10-03)
+
+### Bug Fixes
+
+* **report:** 月報表跨月日期錯位 6fd7a02
+* 併入 hotfix v26.12.1 6725fc4
+
 ## [26.13.0-beta.0](///compare/v26.12.0...v26.13.0-beta.0) (2026-10-03)
 
 ### Features
