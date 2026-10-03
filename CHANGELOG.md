@@ -1,5 +1,11 @@
 # Changelog
 
+## [26.12.0-beta.1](///compare/v26.10.2...v26.12.0-beta.1) (2026-10-03)
+
+### Bug Fixes
+
+* 併入 hotfix v26.10.2 98b4972
+
 ## [26.12.0-beta.0](///compare/v26.10.1...v26.12.0-beta.0) (2026-10-03)
 
 ### Features
