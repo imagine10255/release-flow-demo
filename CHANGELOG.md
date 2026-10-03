@@ -1,5 +1,11 @@
 # Changelog
 
+## [26.12.0-beta.2](///compare/v26.12.0-beta.1...v26.12.0-beta.2) (2026-10-03)
+
+### Bug Fixes
+
+* **coupon:** 兌換碼大小寫不分 fa52448
+
 ## [26.12.0-beta.1](///compare/v26.10.2...v26.12.0-beta.1) (2026-10-03)
 
 ### Bug Fixes
