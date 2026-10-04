@@ -1,5 +1,11 @@
 # Changelog
 
+## [26.15.0-beta.1](///compare/v26.15.0-beta.0...v26.15.0-beta.1) (2026-10-04)
+
+### Bug Fixes
+
+* 併入 hotfix v26.13.1 223356c
+
 ## [26.15.0-beta.0](///compare/v26.13.0...v26.15.0-beta.0) (2026-10-04)
 
 ### Features
