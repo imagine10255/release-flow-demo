@@ -1,5 +1,11 @@
 # Changelog
 
+## [26.14.0-beta.1](///compare/v26.14.0-beta.0...v26.14.0-beta.1) (2026-10-04)
+
+### Bug Fixes
+
+* **member:** 閏年 2/29 生日未發放 bdf0658
+
 ## [26.14.0-beta.0](///compare/v26.13.0...v26.14.0-beta.0) (2026-10-04)
 
 ### Features
