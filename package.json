@@ -1,6 +1,6 @@
 {
   "name": "game-shop",
-  "version": "26.13.0-rc.1",
+  "version": "26.13.0",
   "description": "",
   "main": "index.js",
   "directories": {
